@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Stock</string>
+    <string-array name="link">
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_CU1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_CUM1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_AL1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_ALM1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_ZN1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_ZNM1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_PB1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_PBM1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_NI1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_NIM1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_GC1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_GG1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_GM1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_GP1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_GD1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_SI1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_SIM1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_AG1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+        <item>https://www.quandl.com/api/v3/datasets/CHRIS/MCX_AGM1.csv?api_key=rygq1kKrsxeSWwxz1Kzx</item>
+
+
+    </string-array>
+
+
+</resources>
